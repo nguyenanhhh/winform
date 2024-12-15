@@ -1,0 +1,767 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\form_dsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:form_dsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|c:\\users\\asus\\desktop\\2121000995_lethiquynhtruc_21dtk2\\viettre_kltn\\7frmquanlidonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:7frmquanlidonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\7frmquanlidonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:7frmquanlidonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dsdh.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dsdh.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dsctdh.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dsctdh.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\6frmdmncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:6frmdmncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dscv.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dscv.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dsdh1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dsdh1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dsgh.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dsgh.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dshsp.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dshsp.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dskh.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dskh.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dstk.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dstk.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dssp.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dssp.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dsnv.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dsnv.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dsncc.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dsncc.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dslsp.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dslsp.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\sqlservertypes\\x64\\sqlserverspatial140.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:sqlservertypes\\x64\\sqlserverspatial140.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\sqlservertypes\\x64\\msvcr120.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:sqlservertypes\\x64\\msvcr120.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dsctdh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dsctdh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_lethiquynhtruc_21dtk2dsctdh.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:_2121000995_lethiquynhtruc_21dtk2dsctdh.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\4frmdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:4frmdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\4frmdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:4frmdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\class_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:class_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\form_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:form_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\form_dnkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:form_dnkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\form_restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:form_restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\7frmquanlidonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:7frmquanlidonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\formthemdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:formthemdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\formcapnhatdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:formcapnhatdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\6frmdmncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:6frmdmncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\formthemdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:formthemdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\form_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:form_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\form_selectkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:form_selectkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\form_importdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:form_importdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\5frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:5frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\5frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:5frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\3frmdmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:3frmdmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\3frmdmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:3frmdmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\2frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:2frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\2frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:2frmdmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\1frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:1frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\1frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98F46EE3-5F73-4A9D-913E-02AC4724681E}|VietTre_KLTN.csproj|solutionrelative:1frmdmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 252,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1260,
+          "SelectedChildIndex": 53,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.cs",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.cs",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:32:19.018Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "7FrmQuanLiDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\7FrmQuanLiDonHang.cs",
+              "RelativeDocumentMoniker": "7FrmQuanLiDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\7FrmQuanLiDonHang.cs [Design]",
+              "RelativeToolTip": "7FrmQuanLiDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:54:40.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSTK.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSTK.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSTK.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSTK.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSTK.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T21:46:26.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSSP.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSSP.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSSP.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSSP.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSSP.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T21:46:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSNV.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSNV.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSNV.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSNV.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSNV.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T21:46:23.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSNCC.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSNCC.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSNCC.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSNCC.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSNCC.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T21:46:22.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSLSP.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSLSP.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSLSP.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSLSP.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSLSP.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T21:46:20.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSKH.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSKH.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSKH.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSKH.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSKH.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T21:46:17.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSHSP.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSHSP.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSHSP.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSHSP.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSHSP.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T21:46:16.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SqlServerSpatial140.dll",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\SqlServerTypes\\x64\\SqlServerSpatial140.dll",
+              "RelativeDocumentMoniker": "SqlServerTypes\\x64\\SqlServerSpatial140.dll",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\SqlServerTypes\\x64\\SqlServerSpatial140.dll",
+              "RelativeToolTip": "SqlServerTypes\\x64\\SqlServerSpatial140.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-12-12T21:45:49.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "msvcr120.dll",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\SqlServerTypes\\x64\\msvcr120.dll",
+              "RelativeDocumentMoniker": "SqlServerTypes\\x64\\msvcr120.dll",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\SqlServerTypes\\x64\\msvcr120.dll",
+              "RelativeToolTip": "SqlServerTypes\\x64\\msvcr120.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-12-12T21:45:45.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsc",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsc",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsc",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsc",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-12-12T21:45:18.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:44:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Adapter.cs",
+              "RelativeDocumentMoniker": "Adapter.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Adapter.cs",
+              "RelativeToolTip": "Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:44:32.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form_Restore.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_Restore.cs",
+              "RelativeDocumentMoniker": "Form_Restore.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_Restore.cs [Design]",
+              "RelativeToolTip": "Form_Restore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:44:20.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormCapNhatDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormCapNhatDonHang.cs",
+              "RelativeDocumentMoniker": "FormCapNhatDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormCapNhatDonHang.cs [Design]",
+              "RelativeToolTip": "FormCapNhatDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:24:47.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormThemDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormThemDonHang.cs",
+              "RelativeDocumentMoniker": "FormThemDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormThemDonHang.cs",
+              "RelativeToolTip": "FormThemDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:19:02.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormThemDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormThemDonHang.cs",
+              "RelativeDocumentMoniker": "FormThemDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormThemDonHang.cs [Design]",
+              "RelativeToolTip": "FormThemDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:18:29.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSCTDH.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T19:32:02.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSGH.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSGH.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSGH.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSGH.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSGH.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T19:31:58.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSDH1.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSDH1.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSDH1.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSDH1.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSDH1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T19:31:57.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSDH.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSDH.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSDH.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSDH.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSDH.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T19:31:55.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_2121000995_LeThiQuynhTruc_21DTK2DSCV.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSCV.xsd",
+              "RelativeDocumentMoniker": "_2121000995_LeThiQuynhTruc_21DTK2DSCV.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\_2121000995_LeThiQuynhTruc_21DTK2DSCV.xsd",
+              "RelativeToolTip": "_2121000995_LeThiQuynhTruc_21DTK2DSCV.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-12T19:31:53.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "7FrmQuanLiDonHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\7FrmQuanLiDonHang.Designer.cs",
+              "RelativeDocumentMoniker": "7FrmQuanLiDonHang.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\7FrmQuanLiDonHang.Designer.cs",
+              "RelativeToolTip": "7FrmQuanLiDonHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:24:52.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form_Backup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_Backup.cs",
+              "RelativeDocumentMoniker": "Form_Backup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_Backup.cs",
+              "RelativeToolTip": "Form_Backup.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:22:51.502Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "7FrmQuanLiDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\7FrmQuanLiDonHang.cs",
+              "RelativeDocumentMoniker": "7FrmQuanLiDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\7FrmQuanLiDonHang.cs",
+              "RelativeToolTip": "7FrmQuanLiDonHang.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:55:23.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "6FrmDMNCC.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\6FrmDMNCC.cs",
+              "RelativeDocumentMoniker": "6FrmDMNCC.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\6FrmDMNCC.cs",
+              "RelativeToolTip": "6FrmDMNCC.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwF0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:52:41.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "3FrmDMSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\3FrmDMSanPham.cs",
+              "RelativeDocumentMoniker": "3FrmDMSanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\3FrmDMSanPham.cs",
+              "RelativeToolTip": "3FrmDMSanPham.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAQwBMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:52:01.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "2FrmDMKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\2FrmDMKhachHang.cs",
+              "RelativeDocumentMoniker": "2FrmDMKhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\2FrmDMKhachHang.cs",
+              "RelativeToolTip": "2FrmDMKhachHang.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:51:45.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "1FrmDMNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\1FrmDMNhanVien.cs",
+              "RelativeDocumentMoniker": "1FrmDMNhanVien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\1FrmDMNhanVien.cs",
+              "RelativeToolTip": "1FrmDMNhanVien.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAQwB8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:51:34.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "6FrmDMNCC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\6FrmDMNCC.cs",
+              "RelativeDocumentMoniker": "6FrmDMNCC.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\6FrmDMNCC.cs [Design]",
+              "RelativeToolTip": "6FrmDMNCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:50:50.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "5FrmHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\5FrmHoaDon.cs",
+              "RelativeDocumentMoniker": "5FrmHoaDon.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\5FrmHoaDon.cs",
+              "RelativeToolTip": "5FrmHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:50:44.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "4FrmDonDatHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\4FrmDonDatHang.cs",
+              "RelativeDocumentMoniker": "4FrmDonDatHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\4FrmDonDatHang.cs",
+              "RelativeToolTip": "4FrmDonDatHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:49:56.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:49:33.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:49:31.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form_SelectKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_SelectKH.cs",
+              "RelativeDocumentMoniker": "Form_SelectKH.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_SelectKH.cs [Design]",
+              "RelativeToolTip": "Form_SelectKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:49:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "3FrmDMSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\3FrmDMSanPham.cs",
+              "RelativeDocumentMoniker": "3FrmDMSanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\3FrmDMSanPham.cs [Design]",
+              "RelativeToolTip": "3FrmDMSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:11:33.673Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "2FrmDMKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\2FrmDMKhachHang.cs",
+              "RelativeDocumentMoniker": "2FrmDMKhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\2FrmDMKhachHang.cs [Design]",
+              "RelativeToolTip": "2FrmDMKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:06:34.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "1FrmDMNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\1FrmDMNhanVien.cs",
+              "RelativeDocumentMoniker": "1FrmDMNhanVien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\1FrmDMNhanVien.cs [Design]",
+              "RelativeToolTip": "1FrmDMNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:06:33.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "5FrmHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\5FrmHoaDon.cs",
+              "RelativeDocumentMoniker": "5FrmHoaDon.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\5FrmHoaDon.cs [Design]",
+              "RelativeToolTip": "5FrmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:06:27.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "4FrmDonDatHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\4FrmDonDatHang.cs",
+              "RelativeDocumentMoniker": "4FrmDonDatHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\4FrmDonDatHang.cs [Design]",
+              "RelativeToolTip": "4FrmDonDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:06:23.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class_KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Class_KhachHang.cs",
+              "RelativeDocumentMoniker": "Class_KhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Class_KhachHang.cs",
+              "RelativeToolTip": "Class_KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:04:16.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form_Backup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_Backup.cs",
+              "RelativeDocumentMoniker": "Form_Backup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_Backup.cs [Design]",
+              "RelativeToolTip": "Form_Backup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:04:14.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form_DNKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_DNKH.cs",
+              "RelativeDocumentMoniker": "Form_DNKH.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_DNKH.cs [Design]",
+              "RelativeToolTip": "Form_DNKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:04:12.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_DSNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_DSNV.cs",
+              "RelativeDocumentMoniker": "Form_DSNV.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_DSNV.cs [Design]",
+              "RelativeToolTip": "Form_DSNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:04:10.635Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form_importDB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_importDB.cs",
+              "RelativeDocumentMoniker": "Form_importDB.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\2121000995_LeThiQuynhTruc_21DTK2\\VietTre_KLTN\\Form_importDB.cs [Design]",
+              "RelativeToolTip": "Form_importDB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:04:08.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
