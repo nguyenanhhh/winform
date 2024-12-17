@@ -9,7 +9,7 @@ namespace VietTre_KLTN
 {
     class Adapter
     {
-        public static string ConnStr = " Data Source=QUYNHTRUC;Initial Catalog=2121000995_LeThiQuynhTruc_21DTK2;Integrated Security=True";
+        public static string ConnStr = "Data Source=LAPTOP-84CTG406\\SQLEXPRESS;Initial Catalog=2121000995_LeThiQuynhTruc_21DTK2;Integrated Security=True";
     }
     //public SqlDataReader RunQuery(string sql)
     //{

@@ -39,7 +39,7 @@ namespace VietTre_KLTN
         private void _2FrmDMKhachHang_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the '_2121000995_LeThiQuynhTruc_21DTK2DSKH.KhachHang' table. You can move, or remove it, as needed.
-            this.khachHangTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSKH.KhachHang);
+            //this.khachHangTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSKH.KhachHang);
 
         }
 

@@ -33,7 +33,7 @@ namespace VietTre_KLTN
 
         private void nhânViênToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            _1FrmDMNhanVien fr = new _1FrmDMNhanVien();
+            _1FrmDMNhanVien fr = new _1FrmDMNhanVien(); // omg ten ham tieng viet =)))
             fr.ShowDialog();
         }
 
@@ -80,6 +80,18 @@ namespace VietTre_KLTN
         {
             Form_DNKH fr = new Form_DNKH();
             fr.ShowDialog();
+        }
+
+        private void hóaĐơnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            _5FrmHoaDon hoadonForm = new _5FrmHoaDon();
+            hoadonForm.ShowDialog();
+        }
+
+        private void đơnĐặtHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            _7FrmQuanLiDonHang qu = new _7FrmQuanLiDonHang();
+            qu.ShowDialog();
         }
 
         /// <summary>

@@ -29,11 +29,11 @@ namespace VietTre_KLTN
         private void _1FrmDMNhanVien_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the '_2121000995_LeThiQuynhTruc_21DTK2DSCV.ChucVu' table. You can move, or remove it, as needed.
-            this.chucVuTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSCV.ChucVu);
+            //this.chucVuTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSCV.ChucVu);
             // TODO: This line of code loads data into the '_2121000995_LeThiQuynhTruc_21DTK2DSTK.TaiKhoanDangNhap' table. You can move, or remove it, as needed.
-            this.taiKhoanDangNhapTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSTK.TaiKhoanDangNhap);
+            //this.taiKhoanDangNhapTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSTK.TaiKhoanDangNhap);
             // TODO: This line of code loads data into the '_2121000995_LeThiQuynhTruc_21DTK2DSNV.NhanVien' table. You can move, or remove it, as needed.
-            this.nhanVienTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSNV.NhanVien);
+            //this.nhanVienTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSNV.NhanVien);
 
         }
 

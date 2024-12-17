@@ -55,8 +55,8 @@ namespace VietTre_KLTN
         private void FormDangNhap_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the '_2121000995_LeThiQuynhTruc_21DTK2DSTK.TaiKhoanDangNhap' table. You can move, or remove it, as needed.
-            this.taiKhoanDangNhapTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSTK.TaiKhoanDangNhap);
-            cn = new SqlConnection(@"Data Source=QUYNHTRUC\QUYNHTRUC;Initial Catalog=2121000995_LeThiQuynhTruc_21DTK2;Integrated Security=True");
+            //this.taiKhoanDangNhapTableAdapter.Fill(this._2121000995_LeThiQuynhTruc_21DTK2DSTK.TaiKhoanDangNhap);
+            cn = new SqlConnection(@"Data Source=LAPTOP-84CTG406\SQLEXPRESS;Initial Catalog=2121000995_LeThiQuynhTruc_21DTK2;Integrated Security=True");
             cn.Open();
         }
 

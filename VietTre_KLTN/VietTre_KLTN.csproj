@@ -166,6 +166,7 @@
     </Compile>
     <Compile Include="Adapter.cs" />
     <Compile Include="Class_KhachHang.cs" />
+    <Compile Include="DonHang.cs" />
     <Compile Include="FormCapNhatDonHang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -226,6 +227,13 @@
     <Compile Include="Form_SelectKH.Designer.cs">
       <DependentUpon>Form_SelectKH.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmAddBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddBill.Designer.cs">
+      <DependentUpon>FrmAddBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDoncs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
@@ -333,6 +341,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_SelectKH.resx">
       <DependentUpon>Form_SelectKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddBill.resx">
+      <DependentUpon>FrmAddBill.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
