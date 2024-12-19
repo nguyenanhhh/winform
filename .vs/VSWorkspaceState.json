@@ -1,13 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Image\\BanGhe",
-    "\\Image\\Ke",
-    "\\VietTre_KLTN",
-    "\\VietTre_KLTN\\bin\\Debug",
-    "\\VietTre_KLTN\\SqlServerTypes\\x64",
-    "\\VietTre_KLTN\\SqlServerTypes\\x86"
+    "\\VietTre_KLTN"
   ],
-  "SelectedNode": "\\VietTre_KLTN\\Form_DSNV.cs",
+  "SelectedNode": "\\VietTre_KLTN\\FormMain.Designer.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -17,6 +17,11 @@ namespace VietTre_KLTN
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FormDangNhap());
+
+            
+
+
+
         }
     }
 }

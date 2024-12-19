@@ -94,6 +94,25 @@ namespace VietTre_KLTN
             qu.ShowDialog();
         }
 
+       
+        private void phiếuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            _9FrmPhieuXuat phieu = new _9FrmPhieuXuat();
+            phieu.ShowDialog();
+        }
+
+        private void phiếuNhậpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+             _8FrmPhieuNhap phieunhap = new _8FrmPhieuNhap();
+            phieunhap.ShowDialog();
+
+        }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+
+        }
+
         /// <summary>
         ///THỦ TỤC NÀY ĐƯỢC TỰ ĐỘNG CHẠY MỖI KHI FORM NÀY ĐƯỢC MỞ RA
         /// THỦ TỤC TỰ ĐỘNG CHẠY (RUN) MỖI KHI FORM MÀN HÌNH NÀY (Fr1Main) ĐƯỢC MỞ (TẢI = LOAD) LÊN

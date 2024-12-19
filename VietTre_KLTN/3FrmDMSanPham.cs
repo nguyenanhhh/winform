@@ -199,6 +199,11 @@ namespace VietTre_KLTN
             }
         }
 
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
         //private void textBoxNhap_TextChanged(object sender, EventArgs e)
         //{
         //    // TODO: This line of code loads data into the 'kTBH_HANGHOA.sp_select_HANGHOA' table. You can move, or remove it, as needed.

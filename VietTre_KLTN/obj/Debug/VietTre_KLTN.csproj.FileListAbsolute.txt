@@ -225,3 +225,5 @@ C:\Users\ASUS\Desktop\2121000995_LeThiQuynhTruc_21DTK2\VietTre_KLTN\obj\Debug\Vi
 C:\Users\ASUS\Desktop\2121000995_LeThiQuynhTruc_21DTK2\VietTre_KLTN\obj\Debug\VietTre_KLTN.exe
 C:\Users\ASUS\Desktop\2121000995_LeThiQuynhTruc_21DTK2\VietTre_KLTN\obj\Debug\VietTre_KLTN.pdb
 C:\Users\ASUS\Desktop\2121000995_LeThiQuynhTruc_21DTK2\VietTre_KLTN\obj\Debug\VietTre_KLTN.FrmAddBill.resources
+C:\Users\ASUS\Desktop\2121000995_LeThiQuynhTruc_21DTK2\VietTre_KLTN\obj\Debug\VietTre_KLTN._8FrmPhieuNhap.resources
+C:\Users\ASUS\Desktop\2121000995_LeThiQuynhTruc_21DTK2\VietTre_KLTN\obj\Debug\VietTre_KLTN._9FrmPhieuXuat.resources

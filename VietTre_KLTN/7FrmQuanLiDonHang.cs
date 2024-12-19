@@ -367,5 +367,10 @@ namespace VietTre_KLTN
                 themDH(donHang);
             }
         }
+
+        private void tbxTimKiem_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

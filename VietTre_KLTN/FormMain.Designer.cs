@@ -137,7 +137,7 @@ namespace VietTre_KLTN
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1424, 42);
+            this.menuStrip1.Size = new System.Drawing.Size(1424, 40);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -294,14 +294,18 @@ namespace VietTre_KLTN
             // phiếuNhậpToolStripMenuItem
             // 
             this.phiếuNhậpToolStripMenuItem.Name = "phiếuNhậpToolStripMenuItem";
-            this.phiếuNhậpToolStripMenuItem.Size = new System.Drawing.Size(268, 44);
+            this.phiếuNhậpToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
             this.phiếuNhậpToolStripMenuItem.Text = "Phiếu nhập";
+            this.phiếuNhậpToolStripMenuItem.Click += new System.EventHandler(this.phiếuNhậpToolStripMenuItem_Click);
+           
+
             // 
             // phiếuToolStripMenuItem
             // 
             this.phiếuToolStripMenuItem.Name = "phiếuToolStripMenuItem";
-            this.phiếuToolStripMenuItem.Size = new System.Drawing.Size(268, 44);
-            this.phiếuToolStripMenuItem.Text = "Phiếu ";
+            this.phiếuToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.phiếuToolStripMenuItem.Text = "Phiếu xuất";
+            this.phiếuToolStripMenuItem.Click += new System.EventHandler(this.phiếuToolStripMenuItem_Click);
             // 
             // tÌMKIẾMToolStripMenuItem
             // 
@@ -419,6 +423,7 @@ namespace VietTre_KLTN
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormMain";
             this.Text = "HỆ THỐNG KẾ TOÁN BÁN HÀNG CỦA CÔNG TY VIỆT TRE";
+            this.Load += new System.EventHandler(this.FormMain_Load);
             this.contextMenuStrip1.ResumeLayout(false);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

@@ -164,15 +164,21 @@
     <Compile Include="7FrmQuanLiDonHang.Designer.cs">
       <DependentUpon>7FrmQuanLiDonHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="8FrmPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8FrmPhieuNhap.Designer.cs">
+      <DependentUpon>8FrmPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="9FrmPhieuXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="9FrmPhieuXuat.Designer.cs">
+      <DependentUpon>9FrmPhieuXuat.cs</DependentUpon>
+    </Compile>
     <Compile Include="Adapter.cs" />
     <Compile Include="Class_KhachHang.cs" />
     <Compile Include="DonHang.cs" />
-    <Compile Include="FormCapNhatDonHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormCapNhatDonHang.Designer.cs">
-      <DependentUpon>FormCapNhatDonHang.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormDangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -184,12 +190,6 @@
     </Compile>
     <Compile Include="FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormThemDonHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormThemDonHang.Designer.cs">
-      <DependentUpon>FormThemDonHang.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Backup.cs">
       <SubType>Form</SubType>
@@ -320,6 +320,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="7FrmQuanLiDonHang.resx">
       <DependentUpon>7FrmQuanLiDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="8FrmPhieuNhap.resx">
+      <DependentUpon>8FrmPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="9FrmPhieuXuat.resx">
+      <DependentUpon>9FrmPhieuXuat.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormDangNhap.resx">
       <DependentUpon>FormDangNhap.cs</DependentUpon>

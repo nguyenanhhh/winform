@@ -82,5 +82,10 @@ namespace VietTre_KLTN
             }
             catch { }
         }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

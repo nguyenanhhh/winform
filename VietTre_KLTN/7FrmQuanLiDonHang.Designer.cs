@@ -61,6 +61,7 @@
             this.tbxTimKiem.Name = "tbxTimKiem";
             this.tbxTimKiem.Size = new System.Drawing.Size(446, 31);
             this.tbxTimKiem.TabIndex = 2;
+            this.tbxTimKiem.TextChanged += new System.EventHandler(this.tbxTimKiem_TextChanged);
             // 
             // contextMenuStrip1
             // 
